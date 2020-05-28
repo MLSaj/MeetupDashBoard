@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/sajeedbakht/Documents/cloudSparkKafkaReciever/target/scala-2.11/cloudsparkkafkareciever_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cloudMeetUpExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sajeedbakht/Documents/cloudSparkKafkaReciever/target/scala-2.11/classes/cloudMeetUpExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cloudMeetUpExample$$anonfun$readFromKafka$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sajeedbakht/Documents/cloudSparkKafkaReciever/target/scala-2.11/classes/cloudMeetUpExample$$anonfun$readFromKafka$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cloudMeetUpExample$$anonfun$readFromKafka$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sajeedbakht/Documents/cloudSparkKafkaReciever/target/scala-2.11/classes/cloudMeetUpExample$$anonfun$readFromKafka$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cloudMeetUpExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sajeedbakht/Documents/cloudSparkKafkaReciever/target/scala-2.11/classes/cloudMeetUpExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
