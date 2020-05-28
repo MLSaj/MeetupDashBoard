@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="06-sync-hello-producer:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69da7d89-9438-4192-903d-91455f9700cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/06_sync_hello_producer_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/0-kafka-server-start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/1-kafka-server-start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/2-kafka-server-start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/describe-topic.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/start-consumer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/topic-create.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/topic-delete.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/zookeeper-start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bash-scripts/zookeepershell.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetupRequests/AppConfigs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetupRequests/cloudMeetupCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetupRequests/meetupCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetupRequests/serde/JsonDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetupRequests/serde/JsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09-pos-validator/.idea/09-pos-validator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09-pos-validator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/0-kafka-server-start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/1-kafka-server-start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/2-kafka-server-start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/consumer-start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/describe-topic.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/topic-create-2.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/topic-create.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/topic-delete.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/zookeeper-start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/scripts/zookeepershell.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ad9jUaZoqp4AIGuR8tKT90NGke" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MeetupRequests" />
+      <recent name="" />
+      <recent name="guru.learningjournal.kafka.examples" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bash-scripts" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/MeetupRequests" />
+      <recent name="C:\Udemy\FinalProjects\06-sync-hello-producer\scripts" />
+      <recent name="C:\Udemy\FinalProjects\06-sync-hello-producer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.2-kafka-server-start.sh">
+    <configuration name="0-kafka-server-start.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/bash-scripts/0-kafka-server-start.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/bash-scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1-kafka-server-start.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/bash-scripts/1-kafka-server-start.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/bash-scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2-kafka-server-start.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/bash-scripts/2-kafka-server-start.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/bash-scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zookeeper-start.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/bash-scripts/zookeeper-start.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/bash-scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zookeepershell.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/bash-scripts/zookeepershell.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/bash-scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.2-kafka-server-start.sh" />
+        <item itemvalue="Shell Script.1-kafka-server-start.sh" />
+        <item itemvalue="Shell Script.0-kafka-server-start.sh" />
+        <item itemvalue="Shell Script.zookeepershell.sh" />
+        <item itemvalue="Shell Script.zookeeper-start.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69da7d89-9438-4192-903d-91455f9700cd" name="Default Changelist" comment="" />
+      <created>1563546683832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563546683832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590166009576">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="469" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.829@0.23.1440.829" timestamp="1590166009576" />
+    <state x="469" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.830@0.23.1440.830" timestamp="1590089152836" />
+    <state x="574" y="336" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587054826276">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="574" y="336" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.815@0.23.1440.815" timestamp="1587054826276" />
+    <state width="1241" height="104" key="GridCell.Tab.0.bottom" timestamp="1589832078945">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589390857527" />
+    <state width="699" height="203" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1589393559324" />
+    <state width="1243" height="203" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1589487042341" />
+    <state width="1242" height="203" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1589563403102" />
+    <state width="1241" height="104" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1589832078945" />
+    <state width="1241" height="104" key="GridCell.Tab.0.center" timestamp="1589832078944">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589390857526" />
+    <state width="699" height="203" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1589393559323" />
+    <state width="1243" height="203" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1589487042339" />
+    <state width="1242" height="203" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1589563403099" />
+    <state width="1241" height="104" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1589832078944" />
+    <state width="1241" height="104" key="GridCell.Tab.0.left" timestamp="1589832078943">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589390857525" />
+    <state width="699" height="203" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1589393559322" />
+    <state width="1243" height="203" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1589487042338" />
+    <state width="1242" height="203" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1589563403098" />
+    <state width="1241" height="104" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1589832078943" />
+    <state width="1241" height="104" key="GridCell.Tab.0.right" timestamp="1589832078944">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589390857527" />
+    <state width="699" height="203" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1589393559323" />
+    <state width="1243" height="203" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1589487042340" />
+    <state width="1242" height="203" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1589563403100" />
+    <state width="1241" height="104" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1589832078944" />
+    <state x="219" y="23" width="1024" height="829" key="SettingsEditor" timestamp="1590166054083">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="219" y="23" width="1024" height="829" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1590166054083" />
+    <state x="219" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1590089201117" />
+    <state x="390" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1589558217118">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="390" y="298" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1589558217118" />
+    <state x="105" y="60" key="new project wizard" timestamp="1589391870048">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="105" y="60" key="new project wizard/0.23.1440.828@0.23.1440.828" timestamp="1589391870048" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/MeetupRequests/meetupCall.java</url>
+          <line>54</line>
+          <properties class="MeetupRequests.meetupCall" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MeetupRequests/AppConfigs.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
