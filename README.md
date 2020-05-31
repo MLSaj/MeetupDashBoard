@@ -3,5 +3,4 @@
 Flow diagram 
 
 
-![Flowchart]
-(https://github.com/MLSaj/MeetupDashBoard/blob/master/FlowDiagram.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
